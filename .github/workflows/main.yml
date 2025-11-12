@@ -1,4 +1,4 @@
-ymlname: python_requirements_download
+name: python_requirements_download
 
 on:
   repository_dispatch:
