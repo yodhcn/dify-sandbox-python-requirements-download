@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       image:
-        description: "langgenius/dify-sandbox:0.2.12"
+        description: "langgenius/dify-sandbox:latest"
         required: true
         default: "langgenius/dify-sandbox:0.2.12"
 
