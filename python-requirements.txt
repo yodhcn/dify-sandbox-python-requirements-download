@@ -1,4 +1,2 @@
 pandas
 python-docx
-oss2
-boto3
